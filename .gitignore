@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# misc
+*.obj
+.vs/
+Debug/
+Release/
+/netbar/res/Alarm02.wav
+/netbar/res/Alarm01.wav
